@@ -9,10 +9,10 @@ span{
     color: #FFA500;
 }
 .half-to-half img{
-    width: 80%;
+    width: 85%;
 }
 .top-section{
-    padding-left: 9%;
+    padding-left: 10%;
     background-image: url(imge/top-banner.png);
     background-repeat: no-repeat;
 }
@@ -30,4 +30,11 @@ section{
 }
 .half-to-half{
     width: 50%;
+    padding-right: 5%;
+}
+.Tow-section{
+    background-image: url(imge/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-left: 9%;
 }
