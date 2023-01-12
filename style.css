@@ -24,7 +24,7 @@ a{
    border-radius: 6px;
 }
 
-section{
+.flax-box{
     display: flex;
 
 }
@@ -37,4 +37,29 @@ section{
     background-repeat: no-repeat;
     background-position: right;
     padding-left: 9%;
+}
+.thard-section{
+    background-image: url(imge/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.half-to-developer{
+    width: 50%;
+    padding-left: 3%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+}
+#shadow-box1{
+    box-shadow: 0px 1px 29px grey;
+    margin-left: 9%;
+    border-left:7px solid #FF694C;
+}
+#shadow-box2{
+    box-shadow: 0px 1px 29px grey;
+    margin-left: 5%;
+    margin-right: 7%;
+    border-left:7px solid #7c4cff;
+}
+footer{
+    text-align: center;
 }
